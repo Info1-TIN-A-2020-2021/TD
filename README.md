@@ -9,3 +9,4 @@ Il est mis à jour à la fin de chaque cours.
 | Nom | Contenu |
 |---|---|
 | 20200914 | Thermostat d'ambiance I/O |
+| 20200915 | Thermostat d'ambiance I/O (fin), processus de génération d'une exécutable |
