@@ -10,3 +10,4 @@ Il est mis à jour à la fin de chaque cours.
 |---|---|
 | 20200914 | Thermostat d'ambiance I/O |
 | 20200915 | Thermostat d'ambiance I/O (fin), processus de génération d'une exécutable |
+| 20200928 | Création TD, variables, affichage simple |
