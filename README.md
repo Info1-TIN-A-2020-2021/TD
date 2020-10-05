@@ -12,4 +12,5 @@ Il est mis à jour à la fin de chaque cours.
 | 20200915 | Thermostat d'ambiance I/O (fin), processus de génération d'une exécutable |
 | 20200928 | Création TD, variables, affichage simple |
 | 20200929 | nombres réels, affichage formaté |
-| 20200929b | exercice calcul du cvolume d'un cylindre |
+| 20200929b | exercice calcul du volume d'un cylindre |
+| 20201005 | choix des types de données et overflow |
