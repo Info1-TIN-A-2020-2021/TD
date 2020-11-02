@@ -17,3 +17,4 @@ Il est mis à jour à la fin de chaque cours.
 | 20201012 | formats printf-scanf |
 | 20201013 | scanf et adresse des variables en mémoire, sscanf |
 | 20201026 | structure de contrôle if/else et switch/case |
+| 20201102 | switch/case, op ternaire, boucle while |
