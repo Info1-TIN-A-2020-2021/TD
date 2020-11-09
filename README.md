@@ -18,3 +18,5 @@ Il est mis à jour à la fin de chaque cours.
 | 20201013 | scanf et adresse des variables en mémoire, sscanf |
 | 20201026 | structure de contrôle if/else et switch/case |
 | 20201102 | switch/case, op ternaire, boucle while |
+| 20201103 | boucle - approximation de pi |
+| 20201103b | boucle - saisie contrôlée |
