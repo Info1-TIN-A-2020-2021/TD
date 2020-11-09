@@ -20,3 +20,4 @@ Il est mis à jour à la fin de chaque cours.
 | 20201102 | switch/case, op ternaire, boucle while |
 | 20201103 | boucle - approximation de pi |
 | 20201103b | boucle - saisie contrôlée |
+| 20201109 | break/continue/goto + exercices boucles | 
