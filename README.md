@@ -23,3 +23,4 @@ Il est mis à jour à la fin de chaque cours.
 | 20201109 |  exercices boucles : affichage nombres pairs | 
 | 20201109b |  exercices boucles : comptage caractères saisis au clavier| 
 | 20201116 |  exercices tableaux | 
+| 20201117 |  exercices tableaux et algo| 
