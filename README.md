@@ -23,4 +23,7 @@ Il est mis à jour à la fin de chaque cours.
 | 20201109 |  exercices boucles : affichage nombres pairs | 
 | 20201109b |  exercices boucles : comptage caractères saisis au clavier| 
 | 20201116 |  exercices tableaux | 
-| 20201117 |  exercices tableaux et algo| 
+| 20201117 |  exercices tableaux et algo max| 
+| 20201117-final |  exercices tableaux et algos min, mean| 
+| 20201123 |  exercice jardinage tableau| 
+| 20201123b |  exercice à faire : init tableau 2D et mean| 
