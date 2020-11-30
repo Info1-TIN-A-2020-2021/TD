@@ -27,3 +27,4 @@ Il est mis à jour à la fin de chaque cours.
 | 20201117-final |  exercices tableaux et algos min, mean| 
 | 20201123 |  exercice jardinage tableau| 
 | 20201123b |  exercice à faire : init tableau 2D et mean| 
+| 20201130 |  analyse labo10 - fonction racine_cubique| 
