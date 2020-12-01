@@ -28,3 +28,5 @@ Il est mis à jour à la fin de chaque cours.
 | 20201123 |  exercice jardinage tableau| 
 | 20201123b |  exercice à faire : init tableau 2D et mean| 
 | 20201130 |  analyse labo10 - fonction racine_cubique| 
+| 20201201 | exercice sur les fonctions  |
+| 20201201b | utilisation du debug  |
