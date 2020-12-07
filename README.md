@@ -30,3 +30,4 @@ Il est mis à jour à la fin de chaque cours.
 | 20201130 |  analyse labo10 - fonction racine_cubique| 
 | 20201201 | exercice sur les fonctions  |
 | 20201201b | utilisation du debug  |
+| 20201207 | exercice matrice de rotation |
