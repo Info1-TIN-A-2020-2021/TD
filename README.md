@@ -31,3 +31,5 @@ Il est mis à jour à la fin de chaque cours.
 | 20201201 | exercice sur les fonctions  |
 | 20201201b | utilisation du debug  |
 | 20201207 | exercice matrice de rotation |
+| 20201207-suite | fin exercice matrice de rotation |
+| 20201214 | exercice fonction et passage par adresse |
