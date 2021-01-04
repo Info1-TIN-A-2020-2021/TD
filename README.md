@@ -33,3 +33,4 @@ Il est mis à jour à la fin de chaque cours.
 | 20201207 | exercice matrice de rotation |
 | 20201207-suite | fin exercice matrice de rotation |
 | 20201214 | exercice fonction et passage par adresse |
+| 20210104 | fonction et passage par valeur et par adresse, tri d'un tableau |
